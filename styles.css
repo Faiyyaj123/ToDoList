@@ -1,0 +1,10 @@
+body {
+    font-size: 10px; 
+    font-family: Roboto, sans-serif;
+    background-color:;
+    
+    margin: 0;
+    display: grid;
+    height: 100vh;
+    place-items: center;
+}
