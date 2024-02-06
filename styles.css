@@ -46,12 +46,12 @@ button:hover {
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding-left: 2rem;
 }
 
 li {
     margin-bottom: 10px;
-    background-color: #f9f9f9;
+    background-color: #bfb0b0df;
     padding: 10px;
     border-radius: 5px;
 }
